@@ -2,7 +2,8 @@
 <html>
 	<title>Silvervine Technical Assessments</title>
 	<style type="text/css">
-		html { font-family: sans-serif; text-align: center; }
+		html { font-family: sans-serif;
+			text-align: center; }
 		.wrapper { width: 80%; margin: 10% auto; }
 	</style>
 <body>
